@@ -1,5 +1,5 @@
 # 🏔️ Hiking Management System
-![Manage Mountains](public/assets/img/mountain-mate-logo.png)
+![Manage Mountains](public/assets/img/mountainmate-logo.png)
 
 ![Laravel](https://img.shields.io/badge/Laravel_10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP_8.1-777BB4?style=for-the-badge&logo=php&logoColor=white)
