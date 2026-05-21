@@ -21,19 +21,23 @@ The previous system was fully manual — bookings were made via phone calls and 
 
 **Mountain Detail**
 ![Mountain Detail](screenshots/mountain-list-user.png)
+The mountain detail page provides comprehensive information to support users in planning their hikes. When a user selects a mountain image from the landing page, they are directed to a detail page that displays key information such as the mountain’s image, weather forecast, climbing dates, maximum number of climbers, and availability status. The page also includes a short review of the mountain. To check availability, users can refer to the "action" column: if it displays "booking now," the mountain is open for reservations. If the mountain has been deactivated by the administrator, the "booking now" button will change to "not able for now," indicating that the mountain is temporarily unavailable.
 
 **Booking / Reservation**
 ![Booking](screenshots/form-input-user.png)
+The form booking feature enables users to reserve a climbing schedule by completing the required form with accurate details. Alongside the form, the page also displays a brief overview of the selected mountain on the right side, including the mountain’s image and location. After the user fills in the necessary information and clicks the submit button, the system will display a success alert to confirm that the booking has been submitted.
 
 **Payment Upload**
 ![Payment](screenshots/payment.png)
+The invoice feature provides users with a clear overview of their booking status. On this page, users can view detailed information about their order along with its current status.
 
 **Admin Dashboard**
 ![Admin Dashboard](screenshots/DashboardAdmin.png)
+The dashboard adminpage serves as a centralized dashboard that provides administrators with key information and management tools. It features a notification bell that alerts the admin whenever a new transaction occurs, allowing quick access to updates. The page also displays important data, including the total number of mountains, the number of active and inactive mountains, and the earnings for the current month. With these features, the admin page offers comprehensive access to manage transactions and gain valuable insights into mountain management.
 
 **Admin — Manage Mountains**
 ![Manage Mountains](screenshots/manage-mountain.png)
-
+Manage Mountain admin, page provides staff with a simple and structured interface to input new mountain data. Through this page, staff can complete a form with essential details such as the mountain’s name, address, longitude, latitude, image, and description. Accurate input of longitude and latitude is particularly important to ensure the weather forecast displayed is correct. The interface is designed to be user-friendly, guiding staff step by step in adding and managing mountain information effectively.
 ---
 
 ## ✨ Features
