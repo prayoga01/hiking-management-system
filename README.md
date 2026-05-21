@@ -19,11 +19,6 @@ The previous system was fully manual — bookings were made via phone calls and 
 
 ## 📸 Screenshots
 
-> Create a `/docs/screenshots/` folder in this repo, upload your screenshots, then update the paths below.
-
-**Landing Page**
-![Landing Page](screenshots/landing.png)
-
 **Mountain Detail**
 ![Mountain Detail](screenshots/mountain-list-user.png)
 
