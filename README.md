@@ -21,28 +21,22 @@ The previous system was fully manual — bookings were made via phone calls and 
 > Create a `/docs/screenshots/` folder in this repo, upload your screenshots, then update the paths below.
 
 **Landing Page**
-![Landing Page](docs/screenshots/landing.png)
-
-**Mountain List**
-![Mountain List](docs/screenshots/mountain-list.png)
+![Landing Page](screenshots/landing.png)
 
 **Mountain Detail**
-![Mountain Detail](docs/screenshots/mountain-detail.png)
+![Mountain Detail](docs/screenshots/mountain list user.png)
 
 **Booking / Reservation**
-![Booking](docs/screenshots/booking.png)
+![Booking](docs/screenshots/form input user.png)
 
 **Payment Upload**
 ![Payment](docs/screenshots/payment.png)
 
 **Admin Dashboard**
-![Admin Dashboard](docs/screenshots/dashboard-admin.png)
+![Admin Dashboard](docs/screenshots/Dashboard Admin.png)
 
 **Admin — Manage Mountains**
-![Manage Mountains](docs/screenshots/manage-mountain.png)
-
-**Admin — Payment Confirmation**
-![Payment Confirmation](docs/screenshots/payment-confirmation.png)
+![Manage Mountains](docs/screenshots/manage mountain.png)
 
 ---
 
