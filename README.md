@@ -37,7 +37,7 @@ The previous system was fully manual — bookings were made via phone calls and 
 ![Admin Dashboard](screenshots/DashboardAdmin.png)
 
 **Admin — Manage Mountains**
-![Manage Mountains](screenshots/manag-mountain.png)
+![Manage Mountains](screenshots/manage-mountain.png)
 
 ---
 
