@@ -25,19 +25,19 @@ The previous system was fully manual — bookings were made via phone calls and 
 ![Landing Page](screenshots/landing.png)
 
 **Mountain Detail**
-![Mountain Detail](screenshots/mountain list user.png)
+![Mountain Detail](screenshots/mountain-list-user.png)
 
 **Booking / Reservation**
-![Booking](screenshots/form input user.png)
+![Booking](screenshots/form-input-user.png)
 
 **Payment Upload**
 ![Payment](screenshots/payment.png)
 
 **Admin Dashboard**
-![Admin Dashboard](screenshots/Dashboard Admin.png)
+![Admin Dashboard](screenshots/DashboardAdmin.png)
 
 **Admin — Manage Mountains**
-![Manage Mountains](screenshots/manage mountain.png)
+![Manage Mountains](screenshots/manag-mountain.png)
 
 ---
 
