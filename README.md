@@ -18,6 +18,11 @@ The previous system was fully manual — bookings were made via phone calls and 
 ---
 
 ## 📸 Screenshots
+**Landing**
+
+![Landing](screenshots/landing.png)
+
+Landing Page of the MountainMate website is designed to welcome users with the slogan "Experience the Mountains with Simplified Booking" and a "Get Started" call-to-action button to begin planning. Right below it, users can easily see the list of available mountains in the "Mountain List" section. Additionally, there is a navigation bar at the top that includes important menus such as Home, News & Regulation, and Transaction, which serves to provide quick access to related pages. The overall design of this page effectively presents key information and guides users to explore the site's features further.
 
 **Mountain Detail**
 ![Mountain Detail](screenshots/mountain-list-user.png)
@@ -37,7 +42,11 @@ The dashboard adminpage serves as a centralized dashboard that provides administ
 
 **Admin — Manage Mountains**
 ![Manage Mountains](screenshots/manage-mountain.png)
+
 Manage Mountain admin, page provides staff with a simple and structured interface to input new mountain data. Through this page, staff can complete a form with essential details such as the mountain’s name, address, longitude, latitude, image, and description. Accurate input of longitude and latitude is particularly important to ensure the weather forecast displayed is correct. The interface is designed to be user-friendly, guiding staff step by step in adding and managing mountain information effectively.
+
+
+
 ---
 
 ## ✨ Features
